@@ -62,7 +62,7 @@ An **interactive Power BI decomposition tree** that lets users drill down into *
 ---
 
 ## 📂 Dataset Source  
-- The dataset is a **simulated IT firm financial dataset (2022)** created for analysis purposes.  
+- The dataset is a **simulated IT firm financial dataset (2020)** created for analysis purposes.  
 - It includes:  
   - **Budget, Forecast, and Actual Costs** across IT areas and cost elements.  
   - **Regional breakdowns** for USA, Canada, Europe, Latin America, and APAC.  
