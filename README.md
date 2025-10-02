@@ -1,29 +1,29 @@
 # 💰 Actual vs Forecast Budget Analysis Dashboard (IT Firm – 2020 COVID Impact)
+
+## 📌 Project Overview  
+This **Power BI dashboard** analyzes the **financial performance of an IT firm in 2020**, comparing **actual costs vs forecasted budgets** across IT areas, cost elements, and regions.  
+Created in the context of **COVID-19 disruptions**, it highlights budget deviations, overspending, and underutilization to support smarter financial planning. 
+
+Here are the key pages of the **Actual vs Forecast Budget Analysis Dashboard**: 
+
 ### 1️⃣ Main Dashboard – Jan 2020 YTD  
 Provides a **high-level summary of budget vs forecast vs actual performance** with KPIs, variance analysis, and running totals.  
 
 ![Main Dashboard](https://github.com/Jericho0015/Actual-vs-Forecast-Budget-Analysis/blob/main/Dashboard%20Preview/main_dashboard.png)  
 
-
-## 📌 Project Overview  
-This **Power BI dashboard** analyzes the **financial performance of an IT firm in 2020**, comparing **actual costs vs forecasted budgets** across IT areas, cost elements, and regions.  
-Created in the context of **COVID-19 disruptions**, it highlights budget deviations, overspending, and underutilization to support smarter financial planning.  
-
-Here are the key pages of the **Actual vs Forecast Budget Analysis Dashboard**:  
+---
 
 ### 2️⃣ Region-Wise Report  
 Breaks down **budget vs forecast variance across different regions** (USA, Canada, Europe, Latin America, APAC), enabling **geographic performance comparison**.  
 
-![Region Wise Report](images/region_wise_report.png)  
+![Region Wise Report](https://github.com/Jericho0015/Actual-vs-Forecast-Budget-Analysis/blob/main/Dashboard%20Preview/Region_wise_report.png)  
 
 ---
 
 ### 3️⃣ Decomposition Tree  
 An **interactive Power BI decomposition tree** that lets users drill down into **IT areas and cost elements** to identify the main drivers of budget deviations.  
 
-![Decomposition Tree](images/decomposition_tree.png)  
-
----
+![Decomposition Tree](https://github.com/Jericho0015/Actual-vs-Forecast-Budget-Analysis/blob/main/Dashboard%20Preview/Decomposition_Tree.PNG)  
 
 ---
 
