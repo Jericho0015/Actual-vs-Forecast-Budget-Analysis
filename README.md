@@ -1,8 +1,7 @@
 # 💰 Actual vs Forecast Budget Analysis Dashboard (IT Firm – 2020 COVID Impact)
 
 ## 📌 Project Overview  
-This **Power BI dashboard** analyzes the **financial performance of an IT firm in 2020**, comparing **actual costs vs forecasted budgets** across IT areas, cost elements, and regions.  
-Created in the context of **COVID-19 disruptions**, it highlights budget deviations, overspending, and underutilization to support smarter financial planning. 
+This **Power BI dashboard** analyzes the **financial performance of an IT firm in 2020**, comparing **actual costs vs forecasted budgets** across IT areas, cost elements, and regions. Created in the context of **COVID-19 disruptions**, it highlights budget deviations, overspending, and underutilization to support smarter financial planning. 
 
 Here are the key pages of the **Actual vs Forecast Budget Analysis Dashboard**: 
 
