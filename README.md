@@ -2,7 +2,7 @@
 ### 1️⃣ Main Dashboard – Jan 2020 YTD  
 Provides a **high-level summary of budget vs forecast vs actual performance** with KPIs, variance analysis, and running totals.  
 
-![Main Dashboard](Dashboard Preview/main_dashboard.png)  
+![Main Dashboard](https://github.com/Jericho0015/Actual-vs-Forecast-Budget-Analysis/blob/main/Dashboard%20Preview/main_dashboard.png)  
 
 
 ## 📌 Project Overview  
