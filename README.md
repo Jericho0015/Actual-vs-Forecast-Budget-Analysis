@@ -77,13 +77,3 @@ An **interactive Power BI decomposition tree** that lets users drill down into *
 - 🔹 **What-If scenario planning** (e.g., budget cut simulations)  
 - 🔹 **Live database connections** for real-time updates  
 
----
-
-## 📸 Dashboard Preview  
-*(Insert your dashboard screenshots here)*  
-
----
-
-### ✅ Summary  
-This project demonstrates how **Power BI** can transform IT financial data into **actionable business intelligence**.  
-It helps IT leaders monitor budget vs forecast performance, uncover inefficiencies, and make **smarter financial decisions**.  
