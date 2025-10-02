@@ -1,1 +1,69 @@
-# Actual-vs-Forecast-Budget-Analysis
+# 💰 Actual vs Forecast Budget Analysis Dashboard (IT Firm – 2020 COVID Impact)
+
+## 📌 Project Overview  
+This **Power BI dashboard** analyzes the **financial performance of an IT firm in 2020**, comparing **actual costs vs forecasted budgets** across IT areas, cost elements, and regions.  
+Created in the context of **COVID-19 disruptions**, it highlights budget deviations, overspending, and underutilization to support smarter financial planning.  
+
+---
+
+## ❓ Business Questions Addressed  
+- **Which IT areas experienced the highest budget overruns or savings?**  
+- **How did actual costs deviate from forecasts across different regions?**  
+- **Which cost elements (Labor, CAPEX, Shared Services, etc.) contributed most to variances?**  
+- **What was the financial impact of COVID-19 on IT spending patterns?**  
+- **Where can resources be reallocated to improve efficiency?**  
+
+---
+
+## ⚡ Key Dashboard Features  
+- 📊 **Variance Analysis** – Compare actual, forecast, and budget with % deviation.  
+- 🌍 **Regional Insights** – Spending deviations across USA, Canada, Europe, Latin America, and APAC.  
+- 🏢 **IT Area Breakdown** – Infrastructure, Governance, BU Support, Functional costs.  
+- 💼 **Cost Element Analysis** – Labor, CAPEX, Administrative, Hardware, Shared Services.  
+- 📈 **Running Total Trend** – Month-by-month budget vs forecast vs actual.  
+- 🎯 **KPI Tracking** – Forecast accuracy, budget utilization, variance alerts.  
+
+---
+
+## 🔍 Business Impact  
+- ✅ Increased **financial transparency** across IT operations.  
+- ✅ Improved **forecasting accuracy** for future planning.  
+- ✅ Identified **overspending areas** for corrective action.  
+- ✅ Enabled **data-driven decision-making** during a critical COVID-19 year.  
+
+---
+
+## 🛠️ Tech Stack  
+- **Power BI Desktop** – Dashboard & visualization  
+- **Power Query** – Data cleaning & transformation  
+- **DAX** – Calculated KPIs (variance %, running totals, forecast accuracy)  
+- **Data Modeling** – Linking IT areas, cost elements, and regions  
+
+---
+
+## 📂 Dataset Source  
+- The dataset is a **simulated IT firm financial dataset (2022)** created for analysis purposes.  
+- It includes:  
+  - **Budget, Forecast, and Actual Costs** across IT areas and cost elements.  
+  - **Regional breakdowns** for USA, Canada, Europe, Latin America, and APAC.  
+  - **Cost categories** such as Labor, CAPEX, Administrative, Hardware, and Shared Services.  
+- *(No sensitive or real company data was used; dataset is anonymized and structured for training and analysis.)*
+
+---
+
+## 🚀 Future Enhancements  
+- 🔹 **Drill-down** to project/department-level analysis  
+- 🔹 **Predictive forecasting** (AI/ML integration with Python or Power BI)  
+- 🔹 **What-If scenario planning** (e.g., budget cut simulations)  
+- 🔹 **Live database connections** for real-time updates  
+
+---
+
+## 📸 Dashboard Preview  
+*(Insert your dashboard screenshots here)*  
+
+---
+
+### ✅ Summary  
+This project demonstrates how **Power BI** can transform IT financial data into **actionable business intelligence**.  
+It helps IT leaders monitor budget vs forecast performance, uncover inefficiencies, and make **smarter financial decisions**.  
